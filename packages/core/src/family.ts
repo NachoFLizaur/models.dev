@@ -16,6 +16,7 @@ export const ModelFamilyValues = [
   "gpt-sol",
   "gpt-terra",
   "gpt-luna",
+  "gpt-astra",
   "gpt-oss",
   "gpt-image",
 
@@ -83,6 +84,9 @@ export const ModelFamilyValues = [
   "kimi-free",
   "kimi-thinking",
 
+  // Motif Technologies
+  "motif",
+
   // Poolside Laguna
   "laguna",
   "laguna-s",
@@ -96,6 +100,7 @@ export const ModelFamilyValues = [
   "ministral",
   "codestral",
   "devstral",
+  "leanstral",
   "pixtral",
   "mixtral",
 
