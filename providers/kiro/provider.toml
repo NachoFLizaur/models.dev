@@ -1,4 +1,5 @@
 name = "Kiro"
 env = ["KIRO_API_KEY"]
 npm = "kiro-acp-ai-provider"
+api = "${KIRO_API_URL}"
 doc = "https://kiro.dev/docs/cli/models/"
