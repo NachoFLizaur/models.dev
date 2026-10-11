@@ -6,13 +6,8 @@ base_model = "anthropic/claude-opus-4-6"
 type = "effort"
 values = ["low", "medium", "high", "max"]
 
-[cost]
-input = 0
-output = 0
-
 [modalities]
 input = ["text", "image"]
-output = ["text"]
 
 [limit]
 output = 64_000

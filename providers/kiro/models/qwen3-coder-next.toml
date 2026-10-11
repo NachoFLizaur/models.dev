@@ -2,9 +2,5 @@
 # Source: https://kiro.dev/docs/cli/models/
 base_model = "alibaba/qwen3-coder-next"
 
-[cost]
-input = 0
-output = 0
-
 [limit]
 context = 256_000
